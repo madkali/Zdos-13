@@ -3,7 +3,7 @@
 set -e
 
 echo '---------------------------------------------------------------------'
-echo 'SoftEther VPN for Unix'
+echo 'Zdos VPN for Unix'
 echo
 echo 'Copyright (c) all contributors on SoftEther VPN project in GitHub.'
 echo 'Copyright (c) Daiyuu Nobori, SoftEther Project at University of Tsukuba, and SoftEther Corporation.'
