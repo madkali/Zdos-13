@@ -1,10 +1,10 @@
-# SoftEther VPN
+# Zdos-vpn
 
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/softethervpn/softethervpn?branch=master&svg=true)](https://ci.appveyor.com/project/softethervpn/softethervpn) [![Travis CI build status](https://travis-ci.org/SoftEtherVPN/SoftEtherVPN.svg?branch=master)](https://travis-ci.org/SoftEtherVPN/SoftEtherVPN) [![gitlab-ci build status](https://gitlab.com/SoftEther/SoftEtherVPN/badges/master/build.svg)](https://gitlab.com/SoftEther/SoftEtherVPN/pipelines) [![Coverity Scan Build Status](https://scan.coverity.com/projects/16304/badge.svg)](https://scan.coverity.com/projects/softethervpn-softethervpn)
 
-- [SoftEther VPN](#softether-vpn)
+- [SoftEther VPN](#zdos-vpn)
 - [BOARD MEMBERS OF THIS REPOSITORY](#board-members-of-this-repository)
-- [SOFTETHER VPN ADVANTAGES](#softether-vpn-advantages)
+- [Zdos- VPN ADVANTAGES](#softether-vpn-advantages)
 - [Installation](#installation)
   * [For Ubuntu](#for-ubuntu)
   * [From binary installers:](#from-binary-installers)
@@ -93,7 +93,7 @@ Ilya Shipitsin (Since Jul 21, 2018)
 https://github.com/chipitsine
 
 
-# SOFTETHER VPN ADVANTAGES
+# Zdos VPN ADVANTAGES
 
 
 - Supporting all popular VPN protocols by the single VPN server:
@@ -178,10 +178,10 @@ https://192.168.0.1:5555/admin/
 Note: Your HTML5 development contribution is very appreciated. The current HTML5 pages are written by Daiyuu Nobori (the core developer of SoftEther VPN). He is obviously lack of HTML5 development ability. Please kindly consider to contribute for SoftEther VPN's development on GitHub. Your code will help every people running SoftEther VPN Server.
 
 
-## Built-in SoftEther Server VPN JSON-RPC API Suite
+## Built-in Zdos Server VPN JSON-RPC API Suite
 The API Suite allows you to easily develop your original SoftEther VPN Server management application to control the VPN Server (e.g. creating users, adding Virtual Hubs, disconnecting a specified VPN sessions).
 
-You can access to the [latest SoftEther VPN Server JSON-RPC Document on GitHub.](https://github.com/SoftEtherVPN/SoftEtherVPN/tree/master/developer_tools/vpnserver-jsonrpc-clients/)
+You can access to the [latest Zdos VPN Server JSON-RPC Document on GitHub.](https://github.com/SoftEtherVPN/SoftEtherVPN/tree/master/developer_tools/vpnserver-jsonrpc-clients/)
 
 - Almost all control APIs, which the VPN Server provides, are available as JSON-RPC API.
 You can write your own VPN Server management application in your favorite languages (JavaScript, TypeScript, Java, Python, Ruby, C#, ... etc.)
