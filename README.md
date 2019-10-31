@@ -2,7 +2,7 @@
 
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/softethervpn/softethervpn?branch=master&svg=true)](https://ci.appveyor.com/project/softethervpn/softethervpn) [![Travis CI build status](https://travis-ci.org/SoftEtherVPN/SoftEtherVPN.svg?branch=master)](https://travis-ci.org/SoftEtherVPN/SoftEtherVPN) [![gitlab-ci build status](https://gitlab.com/SoftEther/SoftEtherVPN/badges/master/build.svg)](https://gitlab.com/SoftEther/SoftEtherVPN/pipelines) [![Coverity Scan Build Status](https://scan.coverity.com/projects/16304/badge.svg)](https://scan.coverity.com/projects/softethervpn-softethervpn)
 
-- [SoftEther VPN](#zdos-vpn)
+- [Zdos VPN](#zdos-vpn)
 - [BOARD MEMBERS OF THIS REPOSITORY](#board-members-of-this-repository)
 - [Zdos- VPN ADVANTAGES](#softether-vpn-advantages)
 - [Installation](#installation)
@@ -16,7 +16,7 @@
 - [SOURCE CODE CONTRIBUTION](#source-code-contribution)
 - [DEAR SECURITY EXPERTS](#dear-security-experts)
 
-SoftEther VPN (Developer Edition Master Repository)
+Zdos VPN (Developer Edition Master Repository)
 - An Open-Source Cross-platform Multi-protocol VPN Program
 http://www.softether.org/
 
