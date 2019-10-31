@@ -1,6 +1,6 @@
 Hi, there!
 
-Thank you for using SoftEther.
+Thank you for using Zdos-0.13.
 
 Before you submit an issue, please read the following:
 
