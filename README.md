@@ -18,7 +18,7 @@
 
 Zdos VPN (Developer Edition Master Repository)
 - An Open-Source Cross-platform Multi-protocol VPN Program
-http://www.softether.org/
+https://github.com/madkali/Zdos-13
 
 
 This repository has experimental codes. Pull requests are welcome.
@@ -30,7 +30,7 @@ which the non-developer user can stable use.
 Source code packages (.zip and .tar.gz) and binary files of Stable Edition are also available:  
 http://www.softether-download.com/
 
-Copyright (c) all contributors on SoftEther VPN project in GitHub.
+Copyright (c) all contributors zdos project in GitHub.
 Copyright (c) Daiyuu Nobori, SoftEther Project at University of Tsukuba, and SoftEther Corporation.
 
 ---
@@ -59,7 +59,7 @@ You may obtain a copy of the License at
 
    http://www.apache.org/licenses/LICENSE-2.0
 
-SoftEther VPN ("SoftEther" means "Software Ethernet") is one of the
+zdos VPN ("SoftEther" means "Software Ethernet") is one of the
 world's most powerful and easy-to-use multi-protocol VPN software.
 
 SoftEther VPN runs on Windows, Linux, Mac, FreeBSD and Solaris.
